@@ -52,4 +52,4 @@ for i in range(0,len(valList)-2,3):
 
 
 fout.close()
-fin.close()
+
